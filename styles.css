@@ -1,0 +1,83 @@
+h1, h2, p {
+        text-align: center;
+      }
+h1
+{
+    margin-top: 0px;
+      margin-bottom:15px;
+
+}
+hr
+{
+  height:3px;
+background-color:  chocolate;
+    border-color: chocolate;
+    border-width: 1px;
+}
+.im
+{
+    width: 15%;
+    height: 15%;
+    display:block;
+  margin-left:auto;
+  margin-right:auto;
+    margin-top:-25px;
+}
+body
+{
+    
+      
+    background:url(https://puzzlemania-154aa.kxcdn.com/products/2019/puzzle-nathan-1500-pieces-sweets-chocolates.jpg) no-repeat;
+  background-size:cover !important;
+   font-family:cursive;
+
+}
+.re
+{
+    font-style: italic;
+}
+.menu
+{
+    width: 40%;
+    max-width:500px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: burlywood;
+    margin-right:auto;
+   margin-left:auto;
+}
+.flavor,.dessert
+{
+    text-align: left;
+    width:75%;
+   /* margin-left: 15%;*/
+}
+.price
+{text-align: right;
+    width:25%;
+}
+.item p
+{
+   display: inline-block;
+    margin-top:5px;
+  margin-bottom:5px;
+    font-size: 18px;
+}
+footer
+
+{
+    font-size: 14px;
+}
+a
+{
+    color: black;
+}
+a:visited { color: black; }
+a:hover { color: gray; }
+a:active { color: white; }
+.address
+{
+    margin-bottom: 15px;
+}
